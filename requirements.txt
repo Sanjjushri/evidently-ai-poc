@@ -1,0 +1,6 @@
+evidently==0.4.16
+jupyter_contrib_nbextensions==0.7.0
+pandas==2.2.1
+scikit-learn==1.4.1.post1
+jupyterlab==4.1.2
+mlflow==2.12.1
