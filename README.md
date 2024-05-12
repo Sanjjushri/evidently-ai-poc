@@ -38,6 +38,24 @@ verify:
 http://0.0.0.0:
 ```
 
+
+Integration with MLFlow:
+
+Run the following command in the terminal:
+```
+mlflow ui
+```
+
+```
+run mlflow-integration.ipynb file
+```
+
+```
+Reload the MLFlow UI to view the new experiment
+```
+
+
+
 To view the Accuracy Highcharts on Jupyter:
 
 ```
@@ -48,15 +66,4 @@ To view the Accuracy Highcharts on web:
 
 ```
 open with live server accuracy_comparison.html file
-```
-
-Integration with MLFlow:
-
-```
-run mlflow-integration.ipynb file
-```
-
-Run the following command in the terminal:
-```
-mlflow ui
 ```
