@@ -8,8 +8,6 @@ Python 3.11.7
 pip install -r requirements.txt
 ```
 
-### To see reports inside a Jupyter notebook, Run the following commands:
-
 ```
 conda install -c conda-forge jupyter_contrib_nbextensions
 
