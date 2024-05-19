@@ -38,8 +38,23 @@ verify:
 http://0.0.0.0:
 ```
 
+### Report Generation:
 
-Integration with MLFlow:
+Open and Run the following Notebook:
+
+```
+report-generation.ipynb
+```
+
+### Accessing the values produced in the report:
+
+Open and Run the following Notebook:
+
+```
+accessing-report.ipynb
+```
+
+### Integration with MLFlow:
 
 Run the following command in the terminal:
 ```
@@ -55,15 +70,3 @@ Reload the MLFlow UI to view the new experiment
 ```
 
 
-
-To view the Accuracy Highcharts on Jupyter:
-
-```
-open accuracy-monitoring.ipynb
-```
-
-To view the Accuracy Highcharts on web:
-
-```
-open with live server accuracy_comparison.html file
-```
